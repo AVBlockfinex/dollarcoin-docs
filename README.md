@@ -6,7 +6,7 @@ description: Technical overview and stablecoin framework for DollarCoin (USDR)
 # DollarCoin (USDR)
 
 **Technical Overview & Stablecoin Framework**  
-**Version 1.0 | May 2026**
+**Version 1.0 | July 2025**
 
 ## Overview
 
@@ -16,7 +16,6 @@ USDR maintains a 1:1 peg to the U.S. Dollar, combining the stability of traditio
 
 Built for both institutional and retail use cases, DollarCoin enables efficient digital payments, remittances, treasury management, trading, and decentralized finance (DeFi) participation while prioritizing compliance, transparency, and reserve security.
 
-## Core Principles
 
 ### Accessibility
 
@@ -47,8 +46,6 @@ Reserve composition may include:
   - Superstate USTB
 
 Reserve assets are held in segregated accounts and are subject to monthly third-party attestations to support transparency and confidence in reserve integrity.
-
-## Token Mechanics
 
 ### Issuance
 
@@ -109,7 +106,7 @@ Trade, lend, borrow, and provide liquidity using stable digital USD.
 
 ## Availability
 
-DollarCoin (USDR) is accessible through supported partners and digital asset infrastructure, including [Blockfinex](https://blockfinex.com?utm_source=chatgpt.com).
+DollarCoin (USDR) is accessible through supported partners and digital asset infrastructure, including [Blockfinex](https://blockfinex.com?).
 
 ## Disclaimer
 
