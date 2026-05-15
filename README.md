@@ -83,7 +83,7 @@ DollarCoin is available across multiple blockchain ecosystems to maximize access
 | Ticker | USDR |
 | Decimals | 9 |
 | Peg | 1 USDR = 1 USD |
-| Circulating Supply | 1,002,497.69 USDR |
+| Circulating Supply | 1,023,397.91 USDR |
 | Asset Type | USD-backed Stablecoin |
 
 ## Primary Use Cases
